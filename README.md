@@ -1,25 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nikolaj Licht</h1>
-<h3 align="center">A passionate, friendly and cool game developer, with expertise in 3D.</h3>
+<h1 align="center">Hi 👋, I'm Nikolaj Bundgaard Licht</h1>
+<h3 align="center">A passionate, friendly and cool developer, with expertise in Unity, C#/.Net, 3D, Python.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolicht&label=Profile%20views&color=0e75b6&style=flat" alt="nikolicht" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolicht" alt="nikolicht" /></a> </p>
-
-- 🔭 I’m currently working on **Text Pedals**
+- 🔭 I’m currently working on **BaristaCLI**
 
 - 🌱 I’m currently learning **Vue, Python, Everything inbetween**
 
-- 👯 I’m looking to collaborate on **Cool small game projects**
 
-- 👨‍💻 All of my projects are available at [https://nikolajlicht.com/](https://nikolajlicht.com/)
+- 👨‍💻 All of my projects are available at [https://nikolajlicht.com/](https://nikolajlicht.com/)](https://nikolicht.github.io/portfolio/)
 
-- 💬 Ask me about **Blender 3D**
+- 💬 Ask me about **Small cool projects**
 
-- ⚡ Fun fact **I tend to want to be good at absolutely everything.**
+- ⚡ Fun fact **I tend to want to be good at most things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lichtniko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lichtniko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikolaj licht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolaj licht" height="30" width="40" /></a>
 <a href="https://instagram.com/lichtcooks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lichtcooks" height="30" width="40" /></a>
 </p>
