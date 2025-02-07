@@ -3,8 +3,9 @@
 
 - 🔭 I’m currently working on **BaristaCLI**
 
-- 🌱 I’m currently learning **Vue, Python, Everything inbetween**
+- ❤️ I love working with **C#, Vim, CLI-tools, good people**
 
+- 🌱 I'm currently improving my **React, Python**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://nikolicht.github.io/portfolio/)
 
