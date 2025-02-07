@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikolaj Bundgaard Licht</h1>
 <h3 align="center">A passionate, friendly and cool developer, with expertise in Unity, C#/.Net, 3D, Python.</h3>
 
-- 🔭 I’m currently working on **BaristaCLI**
+- 🔭 I’m currently working on [**BaristaCLI**](https://github.com/NikoLicht/BaristaCLI)
 
-- ❤️ I love working with **C#, Vim, CLI-tools, good people**
+- ❤️ I love working with **C#/.Net, Vim, CLI-tools, Python, good people**
 
-- 🌱 I'm currently improving my **React, Python**
+- 🌱 I'm currently improving my **React, Python, Microsoft Azure, Backend**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://nikolicht.github.io/portfolio/)
 
