@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikolaj Bundgaard Licht</h1>
+<h1 align="center">Hi 👋, I'm NikoLicht</h1>
 <h3 align="center">A passionate, friendly and cool developer, with expertise in Unity, C#/.Net, 3D, Python.</h3>
 
 - 🔭 I’m currently working on [**BaristaCLI**](https://github.com/NikoLicht/BaristaCLI)
